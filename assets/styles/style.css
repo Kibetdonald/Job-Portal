@@ -1,0 +1,49 @@
+body{
+   
+    height: "100vh";
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+.loginbtn{
+    border: none;
+    color: purple;
+    border-radius: 4px;
+    height: 35px;
+    background-color: transparent;
+    margin-right: 5%;
+}
+.signupbtn{
+    background-color: purple;
+    border: 0px;
+    border-radius: 4px;
+    height: 35px;
+    margin-right: 5%;
+    color: #fff;
+
+}
+.loginbtn:hover{
+    background-color: purple;
+    color: #fff;
+
+}
+.signupbtn:hover{
+    background-color: transparent;
+    border: none;
+    color: #000;
+}
+.centerdiv{
+    display: flex;
+    margin-top: 15%;
+}
+.centerdiv p{
+    font-size: 34px;
+    color: purple;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.jobs{
+    margin-left: 10%;
+    margin-top: -50px;
+    height: 250px;
+    width: 250px;
+}
